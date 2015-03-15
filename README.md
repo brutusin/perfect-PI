@@ -1,7 +1,7 @@
 # perfect-Pi
 My tribute to [#PiDay](https://twitter.com/search?q=%23PiDay) (Inspired by those from Neil deGrasse [@neiltyson](https://twitter.com/neiltyson))
 
-A computation of the first "perfect" Pi date according to the [ISO 8601](http://en.wikipedia.org/wiki/ISO_8601) date format.
+A computation of the first universal Pi date according to the [ISO 8601](http://en.wikipedia.org/wiki/ISO_8601) date format.
 
 The result:
 
